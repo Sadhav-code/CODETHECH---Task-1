@@ -1,11 +1,11 @@
 CODETECH Task 1
 
-Name - Sadhav Singh
-Company - CODTECH IT SOLUTIONS
-ID - CT6WDS79
-Domain - MACHINE LEARNING
-Duration - 1st JUNE 2024 to 13Th JULY 2024
-Mentor - G.SRAVANI
+    Name - Sadhav Singh
+    Company - CODTECH IT SOLUTIONS
+    ID - CT6WDS79
+    Domain - MACHINE LEARNING
+    Duration - 1st JUNE 2024 to 13Th JULY 2024
+    Mentor - G.SRAVANI
 
 Overview of Project
 
