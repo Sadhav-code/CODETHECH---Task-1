@@ -6,6 +6,7 @@ CODETECH Task 1
     Domain - MACHINE LEARNING
     Duration - 1st JUNE 2024 to 13Th JULY 2024
     Mentor - G.SRAVANI
+Dataset kaggle link - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Overview of Project
 
